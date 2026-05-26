@@ -385,12 +385,9 @@ Possible improvements include:
 ```text
 📦 Digital-Logic-Voting-System
  ┣ 📂 Proteus Files
- ┣ 📂 Report
- ┣ 📂 Circuit Images
  ┣ 📜 README.md
  ┗ 📜 LICENSE
 ```
-
 ---
 
 ## 🧰 Technologies Used
@@ -418,14 +415,9 @@ Possible improvements include:
 ## 🎓 Academic Information
 
 **Course:** EEE283L – Digital Logic Design Laboratory
-**Section:** 02
-**Group:** 03
-**Institution:** entity["organization","BRAC University","Private University in Bangladesh"]
-
 ---
 
 ## 📚 References
-
 1. Roth, C. H., & Kinney, L. L. *Fundamentals of Logic Design (6th Edition)*
 2. Wakerly, J. F. *Digital Logic Design Principles*
 3. Quist, S. C., Amegatse, L. K., & Dickson, D. *Conceptual Design of E-Voting System for Academic Institution*
