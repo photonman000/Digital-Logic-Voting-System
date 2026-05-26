@@ -407,11 +407,11 @@ Possible improvements include:
 
 ## 👨‍💻 Team Members
 
-| Name               | ID       |
-| ------------------ | -------- |
-| Mofakkharul Islam  | 23321044 |
-| Md. Shafinur Islam | 23221020 |
-| Mahdi Ahmed        | 23221056 |
+| Name               
+| ------------------ |
+| Mofakkharul Islam  |
+| Md. Shafinur Islam |
+| Mahdi Ahmed        |
 
 ---
 
